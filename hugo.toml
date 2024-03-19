@@ -1,0 +1,4 @@
+baseURL = 'https://dengons.ghc.com/'
+languageCode = 'en-us'
+title = 'My portfolio'
+theme = 'hugo-sustain'
