@@ -1,4 +1,4 @@
-baseURL = 'https://dengons.github.io/portfolio'
+baseURL = 'https://dengons.github.com/portfolio'
 languageCode = 'en-us'
 title = 'My portfolio'
 theme = 'hugo-sustain'
