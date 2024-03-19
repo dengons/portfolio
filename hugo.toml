@@ -1,4 +1,5 @@
-baseURL = 'https://dengons.ghc.com/'
+baseURL = 'https://dengons.github.io/portfolio'
 languageCode = 'en-us'
 title = 'My portfolio'
 theme = 'hugo-sustain'
+publishDir = "docs"
